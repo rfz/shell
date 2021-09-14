@@ -26,7 +26,7 @@ then
 while [ 1 ]
 do
       #sleep 1
-      curl -# -o aabbcc112233 https://bigota.d.miui.com/V12.0.1.0.RKSRUXM/camellian_ru_global_images_V12.0.1.0.RKSRUXM_20210512.0000.00_11.0_global_c3c6048fcc.tgz
+      curl -# -o /dev/null https://bigota.d.miui.com/V12.0.1.0.RKSRUXM/camellian_ru_global_images_V12.0.1.0.RKSRUXM_20210512.0000.00_11.0_global_c3c6048fcc.tgz
 done
 
 elif (($xz == "2"))
